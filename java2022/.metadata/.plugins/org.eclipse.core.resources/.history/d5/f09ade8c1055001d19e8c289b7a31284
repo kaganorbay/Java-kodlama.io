@@ -1,0 +1,15 @@
+package intro;
+
+public class primeNumbers {
+
+	public static void main(String[] args) {
+		
+		int number = 25, reminder = 2;
+		reminder= number %2 ;
+		System.out.println(reminder);
+		
+	
+
+	}
+
+}

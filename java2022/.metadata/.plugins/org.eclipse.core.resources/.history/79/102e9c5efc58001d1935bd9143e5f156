@@ -1,0 +1,9 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		TeacherCreditsManager teachercreditsManager =new  TeacherCreditsManager();
+		teachercreditsManager.Calculate();
+	}
+
+}

@@ -1,0 +1,13 @@
+package intro;
+
+public class stringsDemo {
+
+	public static void main(String[] args) {
+		String message="Today wheather is good.";
+		
+		System.out.println(message);
+		System.out.println("Number of elements: "+message.length());
+		System.out.println("Number of 5. Elements: "+message.charAt(4));
+	}
+
+}

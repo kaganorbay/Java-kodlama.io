@@ -1,0 +1,28 @@
+package methods2;
+
+public class methods2 {
+
+	public static void main(String[] args) {
+		String message = "Today  wheather is beautiful";
+		String newMessage = givecities();
+		System.out.println(newMessage);
+		int number = total(5,10);
+	}
+	public static void add() {
+		System.out.println("Added!");
+	}
+	public static void delete() {
+		System.out.println("Deleted!");
+	}
+	public static void update() {
+		System.out.println("Updated!");
+	}
+	public static int total(int number1,int number2) {
+		
+		return 0;
+	}
+	public static String givecities() {
+		return "Ankara";
+	}
+
+}

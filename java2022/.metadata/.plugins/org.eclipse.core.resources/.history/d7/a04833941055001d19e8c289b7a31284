@@ -1,0 +1,21 @@
+package intro;
+
+public class primeNumbers {
+
+	public static void main(String[] args) {
+		
+		int number = 25, reminder = 2,a;
+		reminder= number %2 ;
+		System.out.println(reminder);
+		for (int i = 0; i < number; i++) {
+			a = number %i;
+			if(a==0) {
+				System.out.println(number+"= Prime Number");
+			}
+		}
+		
+	
+
+	}
+
+}

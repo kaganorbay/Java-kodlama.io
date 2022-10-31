@@ -1,0 +1,7 @@
+
+public class CreditsUI {
+
+	public void CalculateCredit(TeacherCreditsManager teacherCreditsManager) {
+		teacherCreditsManager.Calculate();
+	}
+}

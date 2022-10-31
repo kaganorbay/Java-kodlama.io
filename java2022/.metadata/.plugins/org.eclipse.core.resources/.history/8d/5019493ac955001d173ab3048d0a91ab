@@ -1,0 +1,30 @@
+package oop1;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Product product = new Product();
+		product.name="A Coffea Machine";
+		product.unitPrice=5000;
+		product.unitsInStock=500;
+		product.imageUrl="acoffeaMachine.jpg";
+		product.discount=7;
+		
+		//System.out.println(product.name);
+		
+		Product product1 = new Product();
+		product1.name="B Coffea Machine";
+		product1.unitPrice=4500;
+		product1.unitsInStock=400;
+		product1.imageUrl="bcoffeaMachine.jpg";
+		product1.discount=6;
+		
+		Product product2 = new Product();
+		product2.name="C Coffea Machine";
+		product2.unitPrice=4800;
+		product2.unitsInStock=300;
+		product2.imageUrl="ccoffeaMachine.jpg";
+		product2.discount=5;
+	}
+
+}

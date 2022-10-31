@@ -1,0 +1,15 @@
+package oop1;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Product product = new Product();
+		product.name="Coffea Machine";
+		product.unitPrice=5000;
+		product.unitsInStock=500;
+		product.imageUrl="coffeaMachine.jpg";
+		product.discount=7;
+
+	}
+
+}

@@ -1,0 +1,16 @@
+package searchingNumber;
+
+public class searchingNumber {
+
+	public static void main(String[] args) {
+		int[] numbers= new int[] {1,2,5,7,9,0};
+		int  callNumber=5;
+		
+		for (int i : numbers) {
+			if (i == callNumber) {
+				System.out.println(callNumber+" is here");
+			}
+		}
+	}
+
+}

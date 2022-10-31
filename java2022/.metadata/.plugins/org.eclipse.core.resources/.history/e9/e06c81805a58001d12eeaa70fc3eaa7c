@@ -1,0 +1,11 @@
+package methodOverloading;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Calculator calculator = new Calculator();
+		int sonuc =calculator.total(10, 15);
+		System.out.println(sonuc);
+	}
+
+}

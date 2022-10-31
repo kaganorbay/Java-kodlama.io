@@ -1,0 +1,20 @@
+package methods2;
+
+public class methods2 {
+
+	public static void main(String[] args) {
+		String message = "Today  wheather is beautiful";
+		String newMessage = message.substring(0,10);
+		System.out.println(newMessage);
+	}
+	public static void add() {
+		System.out.println("Added!");
+	}
+	public static void delete() {
+		System.out.println("Deleted!");
+	}
+	public static void update() {
+		System.out.println("Updated!");
+	}
+
+}

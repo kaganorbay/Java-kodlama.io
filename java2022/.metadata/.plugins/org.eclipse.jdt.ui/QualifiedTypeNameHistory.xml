@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="oop1.CorporateCustomer"/>
+    <fullyQualifiedTypeName name="oop1.Customer"/>
+    <fullyQualifiedTypeName name="oop1.IndividualCustomer"/>
+    <fullyQualifiedTypeName name="java.lang.Process"/>
+    <fullyQualifiedTypeName name="reCapDemo_Classes.Process"/>
+    <fullyQualifiedTypeName name="classesWithAttributes.Product"/>
+    <fullyQualifiedTypeName name="classesWithAttributes.ProductManager"/>
+    <fullyQualifiedTypeName name="methodOverloading.Calculator"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="Customer"/>
+    <fullyQualifiedTypeName name="Employee"/>
+    <fullyQualifiedTypeName name="CreditsUI"/>
+    <fullyQualifiedTypeName name="TeacherCreditsManager"/>
+    <fullyQualifiedTypeName name="BaseCreditsManager"/>
+</qualifiedTypeNameHistroy>
